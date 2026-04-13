@@ -14,8 +14,8 @@ from ultralytics import YOLO
 from datasets import load_dataset
 
 # Load model & dataset
-model = YOLO("sived_yolov8m_obb_best.pt")
-dataset = load_dataset("Omarinooooo/SIVED", split="test")
+model = YOLO("Model/sived_yolov8m_obb_best.pt")
+dataset = load_dataset("AIOmarRehan/SIVED", split="test")
 
 
 # Helper: pick a random test image
