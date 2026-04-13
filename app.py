@@ -320,7 +320,7 @@ with gr.Blocks(
         """
         # SIVED - SAR Image Vehicle Detection
         **YOLOv8m-OBB** fine-tuned on the
-        [SIVED](https://huggingface.co/datasets/Omarinooooo/SIVED) dataset
+        [SIVED](https://huggingface.co/datasets/AIOmarRehan/SIVED) dataset
         for oriented bounding-box detection of vehicles in SAR imagery.
 
         Upload a SAR image or click **Random Test Image** to try a sample
